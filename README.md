@@ -1,7 +1,5 @@
 Hello! This is my updated portfolio inside it are a few of the homework assignments and one project I've been working on.
 
-# Contents
-
  # Project 1 - Stock Monitor 
   This was the first group project of the course. In this group project we decided to make an app where someone could manage stocks and see what their real time investments were depending on a few inputs they gave the app. It utilized a couple API's that provided the stock data and some news article data to "make informed investments" based on the stock data that was provided. We used Firebase a realtime database to store the data. We also added a few visual aids to our app because we all like when data is presented in graphs.
 
